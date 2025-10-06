@@ -4,6 +4,7 @@
 
 
 📖 **Project Overview**
+
 This project delivers an interactive dashboard to analyze the electric vehicle (EV) market landscape, covering both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The dashboard was designed to empower stakeholders with actionable KPIs related to market size, growth, model distribution, and technology efficiency, based on real-world EV datasets.
 
 🎯 **Problem Statement & KPI Requirements**
